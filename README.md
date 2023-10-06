@@ -12,7 +12,7 @@
 |  Zenn  |   |
 |  職業  |  プログラマー |
 |  メイン言語・お気に入言語  |  Swift UIKit  |
-|  2023年9月現在学習言語  |  SwiftUI, Flutter, Android_Java, Android_Kotlin |
+|  2023年学習言語  | Swift UIKit, SwiftUI, Flutter, Android_Java, Android_Kotlin |
 |  Twitter  |    |
 |  Instagram  |    |
 |  Face Book  |    |
