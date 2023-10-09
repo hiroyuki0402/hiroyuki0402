@@ -1,5 +1,6 @@
 
-![IMG_2358](https://github.com/hiroyuki0402/hiroyuki0402/assets/88645049/2008f282-acf0-4d62-a0d1-ddb424699f37)
+<img src="https://github.com/hiroyuki0402/hiroyuki0402/assets/88645049/2008f282-acf0-4d62-a0d1-ddb424699f37" width="600">
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=hiroyuki0402&theme=dark_lover&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
