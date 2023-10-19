@@ -11,7 +11,7 @@
 | ---- | ---- |
 |  Name  |  Hiroyuki Shiraishi  |
 |  Zenn  |   |
-|  職業  |  プログラマー |
+|  職業  |  iOSプログラマー |
 |  メイン言語・お気に入言語  |  Swift UIKit  |
 |  2023年学習言語  | Swift UIKit, SwiftUI, Flutter, Android_Java, Android_Kotlin |
 |  Twitter  |    |
