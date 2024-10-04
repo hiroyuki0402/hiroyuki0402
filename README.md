@@ -1,4 +1,4 @@
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hiroyuki0402&theme=aura_dark)   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hiroyuki0402&theme=aura_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hiroyuki0402&theme=aura_dark)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=hiroyuki0402&theme=dark_lover&column=7)](https://github.com/hiroyuki0402?tab=repositories)
 
