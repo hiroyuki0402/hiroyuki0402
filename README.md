@@ -1,5 +1,3 @@
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hiroyuki0402&theme=aura_dark)
-
 [![typograssy](https://typograssy.deno.dev/api?text=%20HEY!%20WHAT'S%20UP?&l0=0e1117&l1=90d09a&bg=0e1117&frame=0e1117&speed=400&comment=)](https://github.com/kawarimidoll/typograssy)
 
 
