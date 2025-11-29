@@ -1,15 +1,12 @@
 #!/bin/bash
-# profile-night-rainbow.svgから円グラフ部分を削除
-
 SVG_FILE="profile-3d-contrib/profile-night-rainbow.svg"
 
 if [ -f "$SVG_FILE" ]; then
-  echo "円グラフを削除中..."
+  echo "円グラフ削除中..."
   
-  # 円グラフ部分を削除(idやclass名で特定)
-  # SVGの構造に応じて調整が必要
-  sed -i '/<g id="language-graph"/,/<\/g>/d' "$SVG_FILE" || true
-  sed -i '/<g class="pie-chart"/,/<\/g>/d' "$SVG_FILE" || true
+  # transform="translate(40, 520)" を持つg要素全体を削除
+  # これで円グラフと凡例の両方が消える
+  perl -i -0pe 's/<g[^>]*transform="translate\(40,\s*520\)"[^>]*>.*?<\/g>//gs' "$SVG_FILE"
   
   echo "✅ 円グラフ削除完了"
 else
