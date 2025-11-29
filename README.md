@@ -6,7 +6,7 @@ I'm Hiroyuki, an iOS Engineer.
 I build iOS apps as a hobby outside of work.
 
 ### A quick note
-リポジトリをまとめたり、大掃除して整理していたら草が消えてしまいました...
+リポジトリをまとめたり、大掃除して整理していたら草が消えてしまった！
 
 ![](https://raw.githubusercontent.com/hiroyuki0402/hiroyuki0402/main/profile-3d-contrib/profile-night-rainbow.svg)
 
