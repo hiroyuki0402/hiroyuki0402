@@ -16,6 +16,9 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
       
+      - name: Remove pie chart
+        run: python3 remove-pie-chart.py
+      
       - name: Commit & Push
         run: |
           git config user.name github-actions
